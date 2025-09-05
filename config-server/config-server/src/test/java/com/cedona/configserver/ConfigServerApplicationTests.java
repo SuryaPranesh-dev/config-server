@@ -1,4 +1,4 @@
-package com.cedona.config_server;
+package com.cedona.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
